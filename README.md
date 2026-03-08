@@ -8,9 +8,7 @@ The system is designed as a **mobile application prototype** where users can qui
 
 ## Demo
 
-Demo video:
-
-*(insert demo video link here)*
+<video src="demo/demo.mp4" controls width="700"></video>
 
 The demo shows the following workflow:
 
